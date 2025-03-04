@@ -1,12 +1,13 @@
 ## Hello, World! Welcome to my Github profile 👋
-### My name is Leonardo, i'm currently a programming student 👨‍💻
+### I'm Leonardo and actually i'm software developer at Stefanini
 
 ### My Skills 🖥️
 <div display="flex">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
        
